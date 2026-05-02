@@ -1,0 +1,13 @@
+# ── Caesar Cipher — Requirements ─────────────────
+#
+# This project uses Python's standard library only.
+# No third-party packages are required.
+#
+# Python Version: 3.8+
+#
+# Built-in modules used:
+#   - tkinter      (GUI framework)
+#   - tkinter.font (Font management)
+#   - tkinter.messagebox (Dialog boxes)
+
+# No external dependencies
